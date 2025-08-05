@@ -1,16 +1,13 @@
-## Hi there 👋
+## About me 🗿
 
-<!--
-**TBroz15/TBroz15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Subscribe To TuxeBro](https://img.shields.io/youtube/channel/subscribers/UCrVGLlfWlWmUB8ZG5eyFWTA?style=for-the-badge&logo=youtube&label=Subscribe%20To%20TuxeBro)](https://www.youtube.com/@TBroz15?sub_confirmation=1)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- please call me TuxeBro or TB for short
+- i make cool and epic minecraft videos on youtube (feel free to sub lol)
+- i also develop cool and epic programs depending on my time and motivation
+- i main solidjs as my frontend framework (dont tell me to use react, since solid is similar to it)
+- i know html, css, and javascript in the intermediate-advanced level
+- im currently learning golang
+- if me see issue on open source program and me can fix issue, i fix issue for fellow developer 
+- dont hire me because this account was made for the sake of it but make random programs (btw, i am allergic to j*bs)
