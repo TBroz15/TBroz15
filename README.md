@@ -7,7 +7,8 @@
 - i make cool and epic minecraft videos on youtube (feel free to sub lol)
 - i also develop cool and epic programs depending on my time and motivation
 - i main solidjs as my frontend framework (dont tell me to use react, since solid is similar to it)
-- i know html, css, and javascript in the intermediate-advanced level
-- im currently learning golang
+- i know some web dev stuff in the intermediate-advanced level
+- im currently learning golang and java
+- im a certified never nester (im going to crap myself if too much indentation)
 - if me see issue on open source program and me can fix issue, i fix issue for fellow developer 
 - dont hire me because this account was made for the sake of it but make random programs (btw, i am allergic to j*bs)
