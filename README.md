@@ -3,7 +3,7 @@
 [![Subscribe To TuxeBro](https://img.shields.io/youtube/channel/subscribers/UCrVGLlfWlWmUB8ZG5eyFWTA?style=for-the-badge&logo=youtube&label=Subscribe%20To%20TuxeBro)](https://www.youtube.com/@TBroz15?sub_confirmation=1)
 
 
-- please call me TuxeBro or TB for short
+- please call me TuxeBro
 - i make cool and epic minecraft videos on youtube (feel free to sub lol)
 - i also develop cool and epic programs depending on my time and motivation
 - i main solidjs as my frontend framework (dont tell me to use react, since solid is similar to it)
